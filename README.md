@@ -54,6 +54,6 @@ Run the workflow manually / commit any change.
 
 
 ## PORTS
-      3307 8089 9000
+      3306 8080 9000
 
 
