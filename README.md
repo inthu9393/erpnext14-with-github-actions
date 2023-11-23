@@ -15,7 +15,7 @@ In this tutorial, we will walk you through the process of setting up an ERPNext 
 ## Work to do: 
 - fork repo
 - define secret variables
-- run workflow
+- run workflow.
 
 ## Getting started 
 ### Fork this Repository:
@@ -54,6 +54,6 @@ Run the workflow manually / commit any change.
 
 
 ## PORTS
-      3306 8000 9000
+      3307 8089 9000
 
 
